@@ -1,7 +1,0 @@
-{
-  "name": "Holiday Episodes",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
